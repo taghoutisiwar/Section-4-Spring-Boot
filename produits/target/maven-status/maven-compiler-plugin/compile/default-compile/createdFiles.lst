@@ -1,0 +1,6 @@
+com\example\demo\repos\ProduitRepository.class
+com\example\demo\ProduitsApplication.class
+com\example\demo\service\ProduitServiceImpl.class
+com\example\demo\controllers\ProduitController.class
+com\example\demo\entities\Produit.class
+com\example\demo\service\ProduitService.class
